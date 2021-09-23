@@ -1,0 +1,176 @@
+export default [
+  {
+    id: 1,
+    question: 'Allir landsmenn ættu að hafa aðgang að grunnheilbrigðisþjónustu í sinni heimabyggð.',
+  },
+  {
+    id: 2,
+    question: 'Leyfa ætti aukinn einkarekstur í heilbrigðiskerfinu.',
+  },
+  {
+    id: 3,
+    question: 'Borgarlínan er jákvætt framlag til samgöngumála á stórhöfuðborgarsvæðinu.',
+  },
+  {
+    id: 4,
+    question:
+      'Ísland á í samvinnu við alþjóðastofnanir að taka við fleiri umsækjendum um alþjóðlega vernd.',
+  },
+  {
+    id: 5,
+    question:
+      'Menntasjóður Námsmanna ætti að veita háskólanemum námsstyrki, að minnsta kosti að hluta til.',
+  },
+  {
+    id: 6,
+    question: 'Afnema ætti tekjutengingu á örorku og ellilífeyri.',
+  },
+  {
+    id: 7,
+    question: 'Hækka þarf örorkulífeyri svo þær samsvari lægstu launum hverju sinni.',
+  },
+  {
+    id: 8,
+    question: 'Hækka þarf ellilífeyrisbætur svo þær samsvari lægstu launum hverju sinni.',
+  },
+  {
+    id: 9,
+    question:
+      'Samþykkja ætti nýja stjórnarskrá sem væri að fullu í samræmi við tillögur Stjórnarlagaráðs.',
+  },
+  {
+    id: 10,
+    question: 'Á næsta kjörtímabilinu ætti að ljúka heildarendurskoðun stjórnarskrárinnar.',
+  },
+  {
+    id: 11,
+    question:
+      'Efna á til þjóðaratkvæðagreiðslu um hvort hefja eigi að nýju aðildarviðræður við ESB.',
+  },
+  {
+    id: 12,
+    question:
+      'Auka á framlög Íslands til þróunarsamvinnu og hjálparstarfsemi í fátækari ríkjum heims.',
+  },
+  {
+    id: 13,
+    question: 'NATO á að fá að byggja upp aðstöðu fyrir hersveitir á Keflavíkurflugvelli á ný.',
+  },
+  {
+    id: 14,
+    question: 'Flytja á fleiri opinberar stofnanir út á land.',
+  },
+  {
+    id: 15,
+    question: 'Stjórnvöld eiga að standa vörð um stöðu Þjóðkirkjunnar í íslensku samfélagi.',
+  },
+  {
+    id: 16,
+    question: 'Þyngja ætti refsingar í kynferðis- og heimilisofbeldismálum.',
+  },
+  {
+    id: 17,
+    question:
+      'Mikilvægt er að hið opinbera leysi vanda sauðfjárbænda vegna búvörusamninga með fjárframlögum.',
+  },
+  {
+    id: 18,
+    question:
+      'Fjármagna ætti uppbyggingu vegakerfisins í nágrenni höfuðborgarsvæðisins með vegatollum.',
+  },
+  {
+    id: 19,
+    question: 'Hið opinbera á að tryggja fjölbreytta möguleika til menntunar um allt land.',
+  },
+  {
+    id: 20,
+    question: 'Afglæpavæða ætti neyslu kannabis á kjörtímabilinu.',
+  },
+  {
+    id: 21,
+    question: 'Stjórnvöld eiga að láta markaðsöfl stýra húsnæðismarkaðnum.',
+  },
+  {
+    id: 22,
+    question:
+      'Leggja þarf áherslu á fjárfestingar í innviðum (t.d. í samgöngum, fjarskiptum og heilbrigðiskerfi) áður en ráðist er í að niðurgreiða skuldir ríkissjóðs.',
+  },
+  {
+    id: 23,
+    question: 'Ríkið á að eiga og reka að minnsta kosti einn banka á Íslandi.',
+  },
+  {
+    id: 24,
+    question: 'Lækka þarf launaskattinn (tryggingagjald) sem fyrirtæki greiða til ríkisins.',
+  },
+  {
+    id: 25,
+    question: 'Hækka þarf hátekjuskatt.',
+  },
+  {
+    id: 26,
+    question: 'Skipta ætti út íslensku krónunni fyrir annan erlendan gjaldmiðil.',
+  },
+  {
+    id: 27,
+    question: 'Það er mikilvægt að neytendur fái að kaupa innflutt matvæli.',
+  },
+  {
+    id: 28,
+    question: 'Leyfa ætti sölu áfengis í matvöruverslunum á Íslandi.',
+  },
+  {
+    id: 29,
+    question:
+      'Mikilvægt er að ríkið beiti sér fyrir bættri aðstöðu og aðgengi á ferðamannastöðum í sinni eigu.',
+  },
+  {
+    id: 30,
+    question: 'Hækka þarf veiðigjald af fiskveiðiauðlindum Íslands á næsta kjörtímabili.',
+  },
+  {
+    id: 31,
+    question: 'Ríkið á að selja hlut sinn í orkufyrirtækjum.',
+  },
+  {
+    id: 32,
+    question:
+      'Hagsmunir náttúrunnar eiga að vega þyngra en fjárhagslegir hagsmunir við ákvarðanatöku stjórnvalda í atvinnuuppbyggingu.',
+  },
+  {
+    id: 33,
+    question:
+      'Ríkisstjórnin á að fara að tillögum sóttvarnarlæknis við COVID-19 jafnvel þó þær hafi neikvæð áhrif á efnahagslífið.',
+  },
+  {
+    id: 34,
+    question: 'Stofna ætti hálendisþjóðgarð til að vernda náttúru Íslands.',
+  },
+  {
+    id: 35,
+    question: 'Reykjavíkurflugvöllur á að vera áfram í Vatnsmýri.',
+  },
+  {
+    id: 36,
+    question: 'Taka ætti fyrir kaup erlendra einstaklinga og fyrirtækja á stórum jörðum á Íslandi.',
+  },
+  {
+    id: 37,
+    question:
+      'Núverandi tímamörk um bann á innflutningi á bílum sem ganga fyrir jarðefnaeldsneyti árið 2030 ættu að ganga lengra og vera styttri.',
+  },
+  {
+    id: 38,
+    question: 'Banna á leit að jarðefnaeldsneyti í lögsögu Íslands.',
+  },
+  {
+    id: 39,
+    question:
+      'Auka þarf eftirlit og eftirfylgni á sjó til að stuðla að náttúruvernd t.d. er varðar brottkast fisks.',
+  },
+  {
+    id: 40,
+    question:
+      'Mikilvægt er að stjórnvöld móti heildstæða aðgerðaráætlun fyrir íslenskt hringrásarhagkerfi, t.d. fyrir endurvinnslu, endurnýtingu, flokkun sorps og fleira.',
+  },
+];
